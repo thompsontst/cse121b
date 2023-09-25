@@ -9,7 +9,7 @@ let fullName = "Aniekan Thompson";
 
 let currentYear = new Date();
 
-const profilePicture = "images/profilePics.jpg";
+const profilePicture = "./images/profilePics.jpg";
 
 
 
@@ -24,7 +24,7 @@ const partnerElement = document.getElementById("partner");
 
 const yearElement =  document.querySelector("#year");
 
-const imageElement =  document.getElementById("img[src =images/profilePicture.jpg]");
+const imageElement =  document.querySelector('img');
 
 
 
@@ -32,18 +32,21 @@ const imageElement =  document.getElementById("img[src =images/profilePicture.jp
 
 nameElement.innerHTML = `<strong>${fullName}</strong>`;
 
-//imageElement.setAttribute('src', profilePicture);
-//imageElement.setAttribute('alt', 'profile picture of [fullName]');
-yearElement.textContent = `${currentYear}`;
+imageElement.setAttribute('src', profilePicture);
+imageElement.setAttribute('alt', 'profile picture of [fullName]');
+yearElement.textContent = `${currentYear.getFullYear()}`;
 /* Step 5 - Array */
 
 let  favoriteFoods = ['Plantain Porridge','jollof rice', 'Afang soup',' Banana Glace', 'rice peppersoup','chicken peripperi'];
 foodElement.textContent = favoriteFoods;
 const anotherfavfood = 'Porridge Beans';
+
 favoriteFoods.push(anotherfavfood);
 foodElement.innerHTML += `<br>${favoriteFoods}`;
+
 favoriteFoods.shift();
 foodElement.innerHTML += `<br>${favoriteFoods}`;
+
 favoriteFoods.pop();
 foodElement.innerHTML += `<br>${favoriteFoods}`;
 
