@@ -37,7 +37,7 @@ imageElement.setAttribute('alt', 'profile picture of [fullName]');
 yearElement.textContent = `${currentYear.getFullYear()}`;
 /* Step 5 - Array */
 
-let  favoriteFoods = ['Plantain Porridge','jollof rice', 'Afang soup',' Banana Glace', 'rice peppersoup','chicken peripperi'];
+let  favoriteFoods = ['Plantain Porridge','jollof rice', 'Afang soup',' 'rice peppersoup','chicken peripperi'];
 foodElement.textContent = favoriteFoods;
 const anotherfavfood = 'Porridge Beans';
 
