@@ -74,7 +74,7 @@ document.querySelector("#places-lived").textContent = locations;
 document.querySelector("#places-lived").innerHTML = durations;
 
 function myFunction(place) {
-    locations += place.places + place.length; 
+    locations += place.places + ": " + place.length; 
   }
 // Step 9: Append the HTML <dt> and <dd> elements created above to the HTML <dl> element with an ID of places-lived
 function countPlaces(place) {
