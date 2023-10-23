@@ -162,6 +162,22 @@
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/His_Excellency_Rt._Hon._Sherrif_Oborevwori_Governor_of_Delta_State.jpg/800px-His_Excellency_Rt._Hon._Sherrif_Oborevwori_Governor_of_Delta_State.jpg"
   },
   {
+    "stateName": "Ebonyi State",
+      "Region": "South-East",
+      "year": "2019 - 2023",
+      "governor": "Engr. Dave Umahi",
+      "Elected Political Party": "APC", 
+      "imageUrl": "https://media.premiumtimesng.com/wp-content/files/2018/08/Umahi.jpg"
+  },
+  {
+    "stateName": "Ebonyi State",
+      "Region": "South-East",
+      "year": "2023 - incumbent",
+      "governor": "Francis Nwifuru",
+      "Elected Political Party": "APC", 
+      "imageUrl": "https://cdn.punchng.com/wp-content/uploads/2023/02/10215053/Francis-Nwifuru.png"
+  },
+  {
     "stateName": "Edo State",
       "Region": "South-South",
       "year": "2008 - 2016",
@@ -209,14 +225,7 @@
       "Elected Political Party": "https://netstorage-legit.akamaized.net/images/74d2f3215e63aadd.png?imwidth=720", 
       "imageUrl": ""
   },
-  {
-    "stateName": "",
-      "Region": "",
-      "year": "",
-      "governor": "",
-      "Elected Political Party": "", 
-      "imageUrl": ""
-  },
+ 
   {
     "stateName": "",
       "Region": "",
