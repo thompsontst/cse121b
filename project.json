@@ -2,32 +2,163 @@
     {
       "stateName": "Abia State",
       "Region": "South-East",
-      "year": "1999 - 2007",
-      "governor": " Senator Orji Uzor Kalu",
-      "Elected Political Party": "PDP", 
-      "imageUrl": "https://www.channelstv.com/wp-content/uploads/2022/04/orji-uzor-kalu.jpg"
-    },
-    {
-      "stateName": "Abia State",
-      "Region": "South-East",
-      "year": "2007 - 2015",
-      "governor": "Senator Theodore A. Orji",
-      "Elected Political Party": "PPA", 
-      "imageUrl": "https://dailypost.ng/wp-content/uploads/2015/03/Governor-Orji.png"
-    },
-    {
-      "stateName": "Abia State",
-      "Region": "South-East",
       "year": "2015 - 2023",
       "governor": "Dr. Okezie Ikpeazu",
       "Elected Political Party": "PDP", 
       "imageUrl": "https://puoreports.ng/wp-content/uploads/2018/09/Ikpeazu-check-time.jpg"
     },
-    {"stateName": "Abia State",
+    {
+      "stateName": "Abia State",
       "Region": "South-East",
       "year": "incumbent",
       "governor": "Alex Otti",
       "Elected Political Party": "Labour Party", 
       "imageUrl": "https://i0.wp.com/afnews.ng/wp-content/uploads/2023/06/Alex-Otti.jpg?fit=764%2C547&ssl=1"
-  }
+  },
+
+   {
+    "stateName": "Adamawa State",
+      "Region": "North-East",
+      "year": "2015 - 2019",
+      "governor": "Bindo Jibrilla",
+      "Elected Political Party": "APC", 
+      "imageUrl": "https://dailytrust.com/wp-content/uploads/2019/03/Gov-Mohammed-Jibrilla-Bindow-1.jpg"
+  },
+  {
+    "stateName": "Adamawa State",
+      "Region": "North-East",
+      "year": "2019 - Incumbent",
+      "governor": "Ahmadu Umaru Fintiri",
+      "Elected Political Party": "PDP", 
+      "imageUrl": "https://www.channelstv.com/wp-content/uploads/2021/11/Ahmadu-Umaru-Fintiri.jpg"
+  },
+
+  {
+    "stateName": "Akwa Ibom",
+      "Region": "South-South",
+      "year": "2015 - 2023",
+      "governor": " Udom Gabriel Emmanuel",
+      "Elected Political Party": "PDP", 
+      "imageUrl": "https://www.channelstv.com/wp-content/uploads/2019/09/Udom-Emmanuel.jpg"
+  },
+  {
+    "stateName": "Akwa Ibom",
+      "Region": "South-South",
+      "year": "incumbent",
+      "governor": " Umo Bassey Eno",
+      "Elected Political Party": "PDP", 
+      "imageUrl": "https://akwaibomstate.gov.ng/wp-content/uploads/2023/07/UE-2023-Official.webp"
+  },
+  {
+    "stateName": "Anambra",
+      "Region": "South-East",
+      "year": "2014 - 2022",
+      "governor": "Willie Obiano",
+      "Elected Political Party": "APGA", 
+      "imageUrl": "https://cdn.punchng.com/wp-content/uploads/2016/03/21004618/Willie-Obiano1.jpg"
+  },
+  {
+    "stateName": "Anambra",
+      "Region": "South-East",
+      "year": "2022 - Incumbent",
+      "governor": "Charles Chukwuma Soludo",
+      "Elected Political Party": "APGA", 
+      "imageUrl": "https://www.icirnigeria.org/wp-content/uploads/2021/10/Charles-Soludo-696x392.jpg"
+  },
+  {
+    "stateName": "Bauchi",
+      "Region": "North-East",
+      "year": "2015 - 2019",
+      "governor": "Bar. Mohammed Abdullahi Abubakar",
+      "Elected Political Party": "APC", 
+      "imageUrl": "https://frontlinenews.com.ng/wp-content/uploads/2018/11/Barrister-M-552x381.jpg"
+  },
+  {
+    "stateName": "Bauchi",
+      "Region": "North-East",
+      "year": "2019 - Incumbent",
+      "governor": "Senator Bala Mohammed",
+      "Elected Political Party": "PDP", 
+      "imageUrl": "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/Senator-Bala-Mohammed.gif"
+  },
+  {
+    "stateName": "Bayelsa",
+      "Region": "South-South",
+      "year": "2012 - 2020",
+      "governor": "Henry Dickson",
+      "Elected Political Party": "PDP", 
+      "imageUrl": "https://thenewsnigeria.s3.eu-west-1.amazonaws.com/2018/04/Governor-Seriake-Dickson7-1.jpg"
+  },
+  {
+    "stateName": "Bayelsa",
+      "Region": "South-South",
+      "year": "2012 - 2020",
+      "governor": "Duoye Diri",
+      "Elected Political Party": "PDP", 
+      "imageUrl": "https://cdn.punchng.com/wp-content/uploads/2022/10/25074707/Gov-Diri.jpg"
+  },
+  {
+    "stateName": "",
+      "Region": "",
+      "year": "",
+      "governor": "",
+      "Elected Political Party": "", 
+      "imageUrl": ""
+  },
+  {
+    "stateName": "",
+      "Region": "",
+      "year": "",
+      "governor": "",
+      "Elected Political Party": "", 
+      "imageUrl": ""
+  },
+  {
+    "stateName": "",
+      "Region": "",
+      "year": "",
+      "governor": "",
+      "Elected Political Party": "", 
+      "imageUrl": ""
+  },
+  {
+    "stateName": "",
+      "Region": "",
+      "year": "",
+      "governor": "",
+      "Elected Political Party": "", 
+      "imageUrl": ""
+  },
+  {
+    "stateName": "",
+      "Region": "",
+      "year": "",
+      "governor": "",
+      "Elected Political Party": "", 
+      "imageUrl": ""
+  },
+  {
+    "stateName": "",
+      "Region": "",
+      "year": "",
+      "governor": "",
+      "Elected Political Party": "", 
+      "imageUrl": ""
+  },
+  {
+    "stateName": "",
+      "Region": "",
+      "year": "",
+      "governor": "",
+      "Elected Political Party": "", 
+      "imageUrl": ""
+  },
+  {
+    "stateName": "",
+      "Region": "",
+      "year": "",
+      "governor": "",
+      "Elected Political Party": "", 
+      "imageUrl": ""
+  },
   ]
