@@ -98,20 +98,36 @@
       "imageUrl": "https://cdn.punchng.com/wp-content/uploads/2022/10/25074707/Gov-Diri.jpg"
   },
   {
-    "stateName": "",
-      "Region": "",
-      "year": "",
-      "governor": "",
-      "Elected Political Party": "", 
-      "imageUrl": ""
+    "stateName": "Benue",
+      "Region": "North Central",
+      "year": "2015 - 2023",
+      "governor": "Samuel Ortom",
+      "Elected Political Party": "PDP", 
+      "imageUrl": "https://image.jimcdn.com/app/cms/image/transf/none/path/s658171ab7a6dcc43/image/ie06b5f337133f09d/version/1635324630/benue-governor-samuel-ortom-twitter.jpg"
   },
   {
-    "stateName": "",
-      "Region": "",
-      "year": "",
-      "governor": "",
-      "Elected Political Party": "", 
-      "imageUrl": ""
+    "stateName": "Benue",
+      "Region": "North Central",
+      "year": "incumbent",
+      "governor": "Rev. Fr. Hyacinth Alia",
+      "Elected Political Party": "APC", 
+      "imageUrl": "https://i0.wp.com/radionigeria.gov.ng/wp-content/uploads/2023/06/Rev-Fr-Hyacinth-Alia.jpg?w=1044&ssl=1"
+  },
+  {
+    "stateName": "Borno",
+      "Region": "North East",
+      "year": "2011 - 2019",
+      "governor": "Kashim Shettima",
+      "Elected Political Party": "APC", 
+      "imageUrl": "https://statehouse.gov.ng/wp-content/uploads/2023/05/FxSvH8TWAAYzC0H.jpg"
+  },
+  {
+    "stateName": "Borno",
+      "Region": "North East",
+      "year": "2019 - Incumbent",
+      "governor": "Babagana Umara Zulum",
+      "Elected Political Party": "APC", 
+      "imageUrl": "https://gazettengr.com/wp-content/uploads/Babagana-Zulum.png"
   },
   {
     "stateName": "",
