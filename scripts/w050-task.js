@@ -36,7 +36,7 @@ const displayTemple = (temples) => {
 
 /* async getTemples Function using fetch()*/
 let getTemples = async () => {
-    const uri = "https://byui-cse.github.io/cse121b-ww-course/resources/temples.json"; //https://byui-cse.github.io/cse121b-ww-course/resources/temples.json
+    const uri = "https://thompsontst.github.io/cse121b/project.json"; //https://byui-cse.github.io/cse121b-ww-course/resources/temples.json
     let res = await fetch(uri);
     if (res.ok) {
         console.log("SUCCESSFULLY FETCHED")
