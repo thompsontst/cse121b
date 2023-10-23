@@ -1,0 +1,33 @@
+[
+    {
+      "stateName": "Abia State",
+      "Region": "South-East",
+      "year": "1999 - 2007",
+      "governor": " Senator Orji Uzor Kalu",
+      "Elected Political Party": "PDP", 
+      "imageUrl": "https://www.channelstv.com/wp-content/uploads/2022/04/orji-uzor-kalu.jpg"
+    },
+    {
+      "stateName": "Abia State",
+      "Region": "South-East",
+      "year": "2007 - 2015",
+      "governor": "Senator Theodore A. Orji",
+      "Elected Political Party": "PPA", 
+      "imageUrl": "https://dailypost.ng/wp-content/uploads/2015/03/Governor-Orji.png"
+    },
+    {
+      "stateName": "Abia State",
+      "Region": "South-East",
+      "year": "2015 - 2023",
+      "governor": "Dr. Okezie Ikpeazu",
+      "Elected Political Party": "PDP", 
+      "imageUrl": "https://puoreports.ng/wp-content/uploads/2018/09/Ikpeazu-check-time.jpg"
+    },
+    {"stateName": "Abia State",
+      "Region": "South-East",
+      "year": "incumbent",
+      "governor": "Alex Otti",
+      "Elected Political Party": "Labour Party", 
+      "imageUrl": "https://i0.wp.com/afnews.ng/wp-content/uploads/2023/06/Alex-Otti.jpg?fit=764%2C547&ssl=1"
+  }
+  ]
