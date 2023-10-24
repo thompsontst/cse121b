@@ -14,11 +14,14 @@ const displaygovernors = (governors) => {
     stateName.textContent = governor .stateName;
     let Region = document.createElement('h3');
     Region.textContent = governor .Region;
+    let governorName = document.createElement('h3');
+    governorName.textContent = governor .governorName;
     let img = document.createElement('img');
     img.setAttribute('src', governor .imageUrl);
     img.setAttribute('alt', governor .location);
     article.appendChild(stateName);
     article.appendChild(Region);
+    article.appendChild(governorName);
     article.appendChild(img);
     governorsElement.appendChild(article);
 

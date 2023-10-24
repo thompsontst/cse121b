@@ -36,7 +36,7 @@ const displayTemple = (temples) => {
 
 /* async getTemples Function using fetch()*/
 let getTemples = async () => {
-    const uri = "https://thompsontst.github.io/cse121b/project.json";
+    const uri = "https://byui-cse.github.io/cse121b-ww-course/resources/temples.json";
     let res = await fetch(uri);
     if (res.ok) {
         console.log("SUCCESSFULLY FETCHED")
@@ -44,7 +44,7 @@ let getTemples = async () => {
         let list = resp.filter(x => x);
         templeList = list;
         // console.log(templeList[0])
-
+    
     } else {
         console.log("Could not fetch data")
     }
