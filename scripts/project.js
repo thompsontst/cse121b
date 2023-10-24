@@ -1,60 +1,63 @@
 /* W05: Programming Tasks */
 
 /* Declare and initialize global variables */
-const templesElement = document.querySelector('#temples');
+const governorsElement = document.querySelector('#governors');
 
-let templeList = [];
+let governorList = [];
 
 /* async displayTemples Function */
 
-const displayTemples = (temples) => {
-    temples.forEach(temple => {
+const displaygovernors = (governors) => {
+    governors.forEach(governor => {
     let article = document.createElement('article');
-    let templeName = document.createElement('h3');
-    templeName.textContent = temple.templeName;
+    let stateName = document.createElement('h3');
+    stateName.textContent = governor .stateName;
+    let Region = document.createElement('h3');
+    Region.textContent = governor .Region;
     let img = document.createElement('img');
-    img.setAttribute('src', temple.imageUrl);
-    img.setAttribute('alt', temple.location);
-    article.appendChild(templeName);
+    img.setAttribute('src', governor .imageUrl);
+    img.setAttribute('alt', governor .location);
+    article.appendChild(stateName);
+    article.appendChild(Region);
     article.appendChild(img);
-    templesElement.appendChild(article);
+    governorsElement.appendChild(article);
 
 });
 }
- /* async getTemples Function using fetch()*/
+ /* async getGovernors Function using fetch()*/
 
- const getTemples = async() => {
+ const getGovernors = async() => {
     const response = await fetch("https://thompsontst.github.io/cse121b/project.json")
-    templeList = await response.json()
-    // console.log(`Temple Data:`, templeList );
-    displayTemples(templeList);
+    governorList = await response.json()
+    // console.log(`Temple Data:`, governorList);
+    displaygovernors(governorList);
  };
 /* reset Function */
 const reset = () => {
-    templesElement.innerHTML = '';
+    governorsElement.innerHTML = '';
 }
 
 /* sortBy Function */
-const sortBy = (temples) => {
+const sortBy = (governors) => {
     reset()
     switch(document.querySelector('#sortBy').value) {
-        case "utah":
-            displayTemples(temples.filter(temple => temple.location.includes("Utah")));
+        case "States":
+            displaygovernors(governors.filter(governor  => governor .Region.includes("South-East")));
             break;
-        case "notutah":
-            displayTemples(temples.filter(temple => !temple.location.includes("Utah")));
+        case "Govenors":
+            displaygovernors(governors.filter(governor  => governor .location.includes("Govenors")));
             break;
         case "older":
-            displayTemples(temples.filter((temple) => temple.dedicated > new date(1950, 0, 1)));
+            displaygovernors(governors.filter((governor ) => governor .dedicated > new date(1950, 0, 1)));
             break;
         case "all":
-            displayTemples(templeList);
+            displaygovernors(governorList);
             break;
     }
 };
  
 
-getTemples();
+getGovernors();
 
 /* Event Listener */
-document.querySelector('#sortBy').addEventListener('change', () => sortBy(templeList));
+document.querySelector('#sortBy').addEventListener('change', () => sortBy(governorList));
