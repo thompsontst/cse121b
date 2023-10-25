@@ -14,6 +14,8 @@ const displaygovernors = (governors) => {
     stateName.textContent = governor .stateName;
     let Region = document.createElement('h3');
     Region.textContent = governor .Region;
+    let year = document.createElement('h3');
+    year.textContent = governor .year;
     let governorName = document.createElement('h3');
     governorName.textContent = governor .governorName;
     let img = document.createElement('img');
@@ -21,6 +23,7 @@ const displaygovernors = (governors) => {
     img.setAttribute('alt', governor .location);
     article.appendChild(stateName);
     article.appendChild(Region);
+    article.appendChild(year);
     article.appendChild(governorName);
     article.appendChild(img);
     governorsElement.appendChild(article);
