@@ -10,7 +10,7 @@
   {
     "stateName": "State: Abia State",
     "region": "Region: South-East",
-    "year": "Year: incumbent",
+    "year": "Year: Incumbent",
     "governorName": "Governor: Alex Otti",
     "Elected Political Party": "Party: Labour Party", 
     "imageUrl": "https://i0.wp.com/afnews.ng/wp-content/uploads/2023/06/Alex-Otti.jpg?fit=764%2C547&ssl=1"
@@ -44,7 +44,7 @@
 {
   "stateName": "State: Akwa Ibom State",
     "region": "Region: South-South",
-    "year": "Year: incumbent",
+    "year": "Year: Incumbent",
     "governorName": "Governor: Umo Bassey Eno",
     "Elected Political Party": "Party: PDP", 
     "imageUrl": "https://akwaibomstate.gov.ng/wp-content/uploads/2023/07/UE-2023-Official.webp"
@@ -92,7 +92,7 @@
 {
   "stateName": "State: Bayelsa State",
     "region": "Region: South-South",
-    "year": "Year: 2012 - 2020",
+    "year": "Year: 2012 - Incumbent",
     "governorName": "Governor: Duoye Diri",
     "Elected Political Party": "Party: PDP", 
     "imageUrl": "https://cdn.punchng.com/wp-content/uploads/2022/10/25074707/Gov-Diri.jpg"
@@ -108,7 +108,7 @@
 {
   "stateName": "State: Benue State",
     "region": "Region: North Central",
-    "year": "Year: incumbent",
+    "year": "Year: Incumbent",
     "governorName": "Governor: Rev. Fr. Hyacinth Alia",
     "Elected Political Party": "Party: APC", 
     "imageUrl": "https://i0.wp.com/radionigeria.gov.ng/wp-content/uploads/2023/06/Rev-Fr-Hyacinth-Alia.jpg?w=1044&ssl=1"
@@ -172,7 +172,7 @@
 {
   "stateName": "State: Ebonyi State",
     "region": "Region: South-East",
-    "year": "Year: 2023 - incumbent",
+    "year": "Year: 2023 - Incumbent",
     "governorName": "Governor: Francis Nwifuru",
     "Elected Political Party": "Party: APC", 
     "imageUrl": "https://cdn.punchng.com/wp-content/uploads/2023/02/10215053/Francis-Nwifuru.png"
