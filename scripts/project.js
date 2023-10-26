@@ -11,9 +11,9 @@ const displaygovernors = (governors) => {
     governors.forEach(governor => {
     let article = document.createElement('article');
     let stateName = document.createElement('h3');
-    stateName.textContent = governor.stateName;
+    stateName.textContent = governor .stateName;
     let region = document.createElement('h3');
-    region.textContent = governor.region;
+    region.textContent = governor .region;
     let year = document.createElement('h3');
     year.textContent = governor .year;
     let governorName = document.createElement('h3');
@@ -22,7 +22,7 @@ const displaygovernors = (governors) => {
     img.setAttribute('src', governor .imageUrl);
     img.setAttribute('alt', governor .location);
     article.appendChild(stateName);
-    article.appendChild(Region);
+    article.appendChild(region);
     article.appendChild(year);
     article.appendChild(governorName);
     article.appendChild(img);
@@ -48,7 +48,22 @@ const sortBy = (governors) => {
     reset()
     switch(document.querySelector('#sortBy').value) {
         case "south-south":
+            displaygovernors(governors.filter(governor  => governor.region.includes("South-South")));
+            break;
+        case "south-East":
             displaygovernors(governors.filter(governor  => governor.region.includes("South-East")));
+            break;
+        case "south-West":
+            displaygovernors(governors.filter(governor  => governor.region.includes("South-West")));
+            break;
+        case "North-East":
+            displaygovernors(governors.filter(governor  => governor.region.includes("North-East")));
+            break;
+        case "North-West":
+            displaygovernors(governors.filter(governor  => governor.region.includes("North-West")));
+            break;
+        case "North-Central":
+            displaygovernors(governors.filter(governor  => governor.region.includes("North-Central")));
             break;
         case "incumbent_Govenors":
             displaygovernors(governors.filter(governor  => governor.year.includes("Incumbent")));
