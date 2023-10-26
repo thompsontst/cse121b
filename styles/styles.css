@@ -169,7 +169,7 @@ footer {
 
 /* Class Selectors */
 .active {
-    border-bottom: 1px solid yellow;
+    border-bottom: 1px solid red;
 }
 
 .open li {
