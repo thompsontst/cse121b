@@ -47,11 +47,11 @@ const reset = () => {
 const sortBy = (governors) => {
     reset()
     switch(document.querySelector('#sortBy').value) {
-        case "States":
-            displaygovernors(governors.filter(governor  => governor .Region.includes("South-East")));
+        case "south-south":
+            displaygovernors(governors.filter((governor)  => governor.region.includes("South-South")));
             break;
         case "Govenors":
-            displaygovernors(governors.filter(governor  => governor .location.includes("Govenors")));
+            displaygovernors(governors.filter(governor  => governor.year.includes("incumbent")));
             break;
         case "older":
             displaygovernors(governors.filter((governor ) => governor .dedicated > new date(1950, 0, 1)));

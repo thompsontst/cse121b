@@ -1,7 +1,7 @@
 [
   {
     "stateName": " State: Abia State",
-    "Region": " Region: South-East",
+    "region": " Region: South-East",
     "year": "Year: 2015 - 2023",
     "governorName": "Governor: Dr. Okezie Ikpeazu",
     "Elected Political Party": "Party: PDP", 
@@ -9,7 +9,7 @@
   },
   {
     "stateName": "State: Abia State",
-    "Region": "Region: South-East",
+    "region": "Region: South-East",
     "year": "Year: incumbent",
     "governorName": "Governor: Alex Otti",
     "Elected Political Party": "Party: Labour Party", 
@@ -18,7 +18,7 @@
 
  {
   "stateName": "State: Adamawa State",
-    "Region": "Region: North-East",
+    "region": "Region: North-East",
     "year": "Year: 2015 - 2019",
     "governorName": "Governor: Bindo Jibrilla",
     "Elected Political Party": "Party: APC", 
@@ -26,7 +26,7 @@
 },
 {
   "stateName": "State: Adamawa State",
-    "Region": "Region: North-East",
+    "region": "Region: North-East",
     "year": "Year: 2019 - Incumbent",
     "governorName": "Governor: Ahmadu Umaru Fintiri",
     "Elected Political Party": "Party: PDP", 
@@ -35,7 +35,7 @@
 
 {
   "stateName": "State: Akwa Ibom State",
-    "Region": "Region: South-South",
+    "region": "Region: South-South",
     "year": "Year: 2015 - 2023",
     "governorName": "Governor: Udom Gabriel Emmanuel",
     "Elected Political Party": "Party: PDP", 
@@ -43,7 +43,7 @@
 },
 {
   "stateName": "State: Akwa Ibom State",
-    "Region": "Region: South-South",
+    "region": "Region: South-South",
     "year": "Year: incumbent",
     "governorName": "Governor: Umo Bassey Eno",
     "Elected Political Party": "Party: PDP", 
@@ -51,7 +51,7 @@
 },
 {
   "stateName": "State: Anambra State",
-    "Region": "Region: South-East",
+    "region": "Region: South-East",
     "year": "Year: 2014 - 2022",
     "governorName": "Governor: Willie Obiano",
     "Elected Political Party": "Party: APGA", 
@@ -59,7 +59,7 @@
 },
 {
   "stateName": "State: Anambra State",
-    "Region": "Region: South-East",
+    "region": "Region: South-East",
     "year": "Year: 2022 - Incumbent",
     "governorName": "Governor: Charles Chukwuma Soludo",
     "Elected Political Party": "Party: APGA", 
@@ -67,7 +67,7 @@
 },
 {
   "stateName": "State: Bauchi State",
-    "Region": "Region: North-East",
+    "region": "Region: North-East",
     "year": "Year: 2015 - 2019",
     "governorName": "Governor: Bar. Mohammed Abdullahi Abubakar",
     "Elected Political Party": "Party: APC", 
@@ -75,7 +75,7 @@
 },
 {
   "stateName": "State: Bauchi State",
-    "Region": "Region: North-East",
+    "region": "Region: North-East",
     "year": "Year: 2019 - Incumbent",
     "governorName": "Governor: Senator Bala Mohammed",
     "Elected Political Party": "Party: PDP", 
@@ -83,7 +83,7 @@
 },
 {
   "stateName": "State: Bayelsa State",
-    "Region": "Region: South-South",
+    "region": "Region: South-South",
     "year": "Year: 2012 - 2020",
     "governorName": "Governor: Henry Dickson",
     "Elected Political Party": "Party: PDP", 
@@ -91,7 +91,7 @@
 },
 {
   "stateName": "State: Bayelsa State",
-    "Region": "Region: South-South",
+    "region": "Region: South-South",
     "year": "Year: 2012 - 2020",
     "governorName": "Governor: Duoye Diri",
     "Elected Political Party": "Party: PDP", 
@@ -99,7 +99,7 @@
 },
 {
   "stateName": "State: Benue State",
-    "Region": "Region: North Central",
+    "region": "Region: North Central",
     "year": "Year: 2015 - 2023",
     "governorName": "Governor: Samuel Ortom",
     "Elected Political Party": "Party: PDP", 
@@ -107,7 +107,7 @@
 },
 {
   "stateName": "State: Benue State",
-    "Region": "Region: North Central",
+    "region": "Region: North Central",
     "year": "Year: incumbent",
     "governorName": "Governor: Rev. Fr. Hyacinth Alia",
     "Elected Political Party": "Party: APC", 
@@ -115,7 +115,7 @@
 },
 {
   "stateName": "State: Borno State",
-    "Region": "Region: North East",
+    "region": "Region: North East",
     "year": "Year: 2011 - 2019",
     "governorName": "Governor: Kashim Shettima",
     "Elected Political Party": "Party: APC", 
@@ -123,7 +123,7 @@
 },
 {
   "stateName": "State: Borno State",
-    "Region": "Region: North East",
+    "region": "Region: North East",
     "year": "Year: 2019 - Incumbent",
     "governorName": "Governor: Babagana Umara Zulum",
     "Elected Political Party": "Party: APC", 
@@ -131,7 +131,7 @@
 },
 {
   "stateName": "State: Cross River State",
-    "Region": "Region: South-South",
+    "region": "Region: South-South",
     "year": "Year: 2019 - 2023",
     "governorName": "Governor: Senator Ben Ayade",
     "Elected Political Party": "Party: PDP/APC", 
@@ -139,7 +139,7 @@
 },
 {
   "stateName": "State: Cross River State",
-    "Region": "Region: South-South",
+    "region": "Region: South-South",
     "year": "Year: Incumbent",
     "governorName": "Governor: Senator Bassey Edet Otu",
     "Elected Political Party": "Party: APC", 
@@ -147,7 +147,7 @@
 },
 {
   "stateName": "State: Delta State",
-    "Region": "Region: South-South",
+    "region": "Region: South-South",
     "year": "Year: 2019 - 2023 ",
     "governorName": "Governor: Ifeanyi Okowa",
     "Elected Political Party": "Party: PDP", 
@@ -155,7 +155,7 @@
 },
 {
   "stateName": "State: Delta State",
-    "Region": "Region: South-South",
+    "region": "Region: South-South",
     "year": "Year: Incumbent",
     "governorName": "Governor: Hon. Sheriff Oborevwori",
     "Elected Political Party": "Party: PDP", 
@@ -163,7 +163,7 @@
 },
 {
   "stateName": "State: Ebonyi State",
-    "Region": "Region: South-East",
+    "region": "Region: South-East",
     "year": "Year: 2019 - 2023",
     "governorName": "Governor: Engr. Dave Umahi",
     "Elected Political Party": "Party: APC", 
@@ -171,7 +171,7 @@
 },
 {
   "stateName": "State: Ebonyi State",
-    "Region": "Region: South-East",
+    "region": "Region: South-East",
     "year": "Year: 2023 - incumbent",
     "governorName": "Governor: Francis Nwifuru",
     "Elected Political Party": "Party: APC", 
@@ -179,7 +179,7 @@
 },
 {
   "stateName": "State: Edo State",
-    "Region": "Region: South-South",
+    "region": "Region: South-South",
     "year": "Year: 2008 - 2016",
     "governorName": "Governor: Senator Adams A. Oshiomhole",
     "Elected Political Party": "Party: APC", 
@@ -187,7 +187,7 @@
 },
 {
   "stateName": "State: Edo State",
-    "Region": "Region: South-South",
+    "region": "Region: South-South",
     "year": "Year: 2016 - Incumbent",
     "governorName": "Governor: Godwin Obaseki",
     "Elected Political Party": "Party: PDP", 
@@ -195,7 +195,7 @@
 },
 {
   "stateName": "State: Ekiti State",
-    "Region": "Region: South-West",
+    "region": "Region: South-West",
     "year": "Year: 2018 - 2022",
     "governorName": "Governor: Dr. Kayode Fayem",
     "Elected Political Party": "Party: APC", 
@@ -203,7 +203,7 @@
 },
 {
   "stateName": "State: Ekiti State",
-    "Region": "Region: South-West",
+    "region": "Region: South-West",
     "year": "Year: 2022 - Incumbent",
     "governorName": "Governor: Biodun Oyebanji",
     "Elected Political Party": "Party: APC", 
@@ -211,7 +211,7 @@
 },
 {
   "stateName": "State: Enugu State",
-    "Region": "Region: South-East",
+    "region": "Region: South-East",
     "year": "Year: 2015 - 2023",
     "governorName": "Governor: Ifeanyi Ugwuanyi",
     "Elected Political Party": "Party: PDP", 
@@ -219,7 +219,7 @@
 },
 {
   "stateName": "State: Enugu State",
-    "Region": "Region: South-East",
+    "region": "Region: South-East",
     "year": "Year: Incumbent",
     "governorName": "Governor: Peter Mbah",
     "Elected Political Party": "Party: PDP", 
