@@ -11,9 +11,9 @@ const displaygovernors = (governors) => {
     governors.forEach(governor => {
     let article = document.createElement('article');
     let stateName = document.createElement('h3');
-    stateName.textContent = governor .stateName;
-    let Region = document.createElement('h3');
-    Region.textContent = governor .Region;
+    stateName.textContent = governor.stateName;
+    let region = document.createElement('h3');
+    region.textContent = governor.region;
     let year = document.createElement('h3');
     year.textContent = governor .year;
     let governorName = document.createElement('h3');
@@ -48,7 +48,7 @@ const sortBy = (governors) => {
     reset()
     switch(document.querySelector('#sortBy').value) {
         case "south-south":
-            displaygovernors(governors.filter(governor  => governor.region.includes("South-West")));
+            displaygovernors(governors.filter(governor  => governor.region.includes("South-East")));
             break;
         case "incumbent_Govenors":
             displaygovernors(governors.filter(governor  => governor.year.includes("Incumbent")));
