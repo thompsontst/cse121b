@@ -42,7 +42,20 @@ const displaygovernors = (governors) => {
 const reset = () => {
     governorsElement.innerHTML = '';
 }
-
+/* compare states Function */
+function compare(state1, state2) {
+    console.log('state1', state1);
+        if(state1.governors<state2.governors){
+        return 1
+    }
+    if(state1.governors>state2.governors){
+        return -1
+    }
+    else {
+         return 0
+    }
+    
+     }
 /* sortBy Function */
 const sortBy = (governors) => {
     reset()

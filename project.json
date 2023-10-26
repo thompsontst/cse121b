@@ -227,75 +227,59 @@
 },
 
 {
-  "stateName": "",
-    "region": "",
-    "year": "",
-    "governorName": "",
-    "Elected Political Party": "", 
+  "stateName": "State: Gombe State",
+    "region": "Region: North-East",
+    "year": "Year: 2011 - 2019",
+    "governorName": "Governor: Ibrahim Hassan Dankwambo",
+    "Elected Political Party": "Party: PDP", 
+    "imageUrl": "https://i0.wp.com/africaprimenews.com/wp-content/uploads/2018/08/Gov-Dankwambo.jpg?w=640&ssl=1"
+},
+{
+  "stateName": "State: Gombe State",
+    "region": "Region: North-East",
+    "year": "Year: 2019 - Incumbent",
+    "governorName": "Governor: Muhammad Inuwa Yahaya ",
+    "Elected Political Party": "Party: APC", 
+    "imageUrl": "https://independent.ng/wp-content/uploads/Governor-Muhammad-Inuwa-Yahaya-of-Gombe-State-3.jpg"
+},
+{
+  "stateName": "State: Imo State",
+    "region": "Region: South-East",
+    "year": "Year: 20I9 - 2020",
+    "governorName": "Governor: Emeka Ihedioha",
+    "Elected Political Party": "Party: PDP", 
+    "imageUrl": "https://live.mrf.io/statics/i/ps/storage.googleapis.com/thisday-846548948316-wp-data/wp-media/2019/03/c285ef2a-emeka-ihedioha-1.jpg?width=1200&enable=upscale"
+},
+{
+  "stateName": "State: Imo State",
+    "region": "Region: South-East",
+    "year": "Year: 2020 - Incumbent",
+    "governorName": "Governor: Hope Uzodimma",
+    "Elected Political Party": "Party: APC", 
+    "imageUrl": "https://guardian.ng/wp-content/uploads/2022/10/Uzodimma-1424x802.jpg"
+},
+{
+  "stateName": "State: Jigawa State",
+    "region": "Region: North-West",
+    "year": "Year: 2015 - 2023",
+    "governorName": "Governor: Mohammed Badaru Abubakar",
+    "Elected Political Party": "Party: APC", 
+    "imageUrl": "https://hotpen.net/wp-content/uploads/2021/08/Badaru.jpg"
+},
+{
+  "stateName": "State: Jigawa State",
+    "region": "Region: North-West",
+    "year": "Year: Incumbent",
+    "governorName": "Governor: ",
+    "Elected Political Party": "Party: ", 
     "imageUrl": ""
 },
 {
-  "stateName": "",
-    "region": "",
-    "year": "",
-    "governorName": "",
-    "Elected Political Party": "", 
-    "imageUrl": ""
-},
-{
-  "stateName": "",
-    "region": "",
-    "year": "",
-    "governor": "",
-    "Elected Political Party": "", 
-    "imageUrl": ""
-},
-{
-  "stateName": "",
-    "region": "",
-    "year": "",
-    "governorName": "",
-    "Elected Political Party": "", 
-    "imageUrl": ""
-},
-{
-  "stateName": "",
-    "region": "",
-    "year": "",
-    "governorName": "",
-    "Elected Political Party": "", 
-    "imageUrl": ""
-},
-{
-  "stateName": "",
-    "region": "",
-    "year": "",
-    "governorName": "",
-    "Elected Political Party": "", 
-    "imageUrl": ""
-},
-{
-  "stateName": "",
-    "region": "",
-    "year": "",
-    "governorName": "",
-    "Elected Political Party": "", 
-    "imageUrl": ""
-},
-{
-  "stateName": "",
-    "region": "",
-    "year": "",
-    "governorName": "",
-    "Elected Political Party": "", 
-    "imageUrl": ""
-},
-{
-  "stateName": "",
-    "region": "",
-    "year": "",
-    "governorName": "",
-    "Elected Political Party": "", 
+  "stateName": "State:  State",
+    "region": "Region: ",
+    "year": "Year: Incumbent",
+    "governorName": "Governor: ",
+    "Elected Political Party": "Party: ", 
     "imageUrl": ""
 }
 ]
