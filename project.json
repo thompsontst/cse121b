@@ -291,36 +291,36 @@
     "imageUrl": "https://cdn.punchng.com/wp-content/uploads/2023/06/21105737/Uba-Sani-1536x1018.jpeg"
 },
 {
-  "stateName": "State:  State",
+  "stateName": "State: Kano State",
+    "region": "Region: North-West ",
+    "year": "Year: 2015 - 2023",
+    "governorName": "Governor: Abdullahi Umar Ganduje",
+    "Elected Political Party": "Party: APC", 
+    "imageUrl": "https://guardian.ng/wp-content/uploads/2022/07/ganduje-712x401.jpg"
+},
+{
+  "stateName": "State: KanO State",
     "region": "Region: North-West ",
     "year": "Year: Incumbent",
-    "governorName": "Governor: ",
-    "Elected Political Party": "Party: APC", 
-    "imageUrl": ""
+    "governorName": "Governor: Abba Kabir Yusuf",
+    "Elected Political Party": "Party: NNPP", 
+    "imageUrl": "https://solacebase.com/wp-content/uploads/2023/03/Abba-Kabir-Yusuf-new-720x430.jpg"
 },
 {
-  "stateName": "State:  State",
-    "region": "Region: North-West ",
-    "year": "Year: Incumbent",
-    "governorName": "Governor: ",
-    "Elected Political Party": "Party: APC", 
-    "imageUrl": ""
-},
-{
-  "stateName": "State:  State",
+  "stateName": "State: Katsina State",
     "region": "Region: North-West",
-    "year": "Year: Incumbent",
-    "governorName": "Governor: ",
+    "year": "Year: 2015 - 2023",
+    "governorName": "Governor: Aminu Bello Masari",
     "Elected Political Party": "Party: APC", 
-    "imageUrl": ""
+    "imageUrl": "https://kipa.kt.gov.ng/wp-content/uploads/2022/06/d0432-masarii-1.jpeg"
 },
 {
   "stateName": "State:  State",
-    "region": "Region: North-West",
+    "region": "Region: Katsina North-West",
     "year": "Year: Incumbent",
-    "governorName": "Governor: ",
+    "governorName": "Governor: Dikko Umar Radda",
     "Elected Political Party": "Party: APC", 
-    "imageUrl": ""
+    "imageUrl": "https://media.premiumtimesng.com/wp-content/files/2023/04/Dr-Dikko-Umar-Radda.jpg"
 },
 {
   "stateName": "State:  State",
