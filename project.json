@@ -269,17 +269,81 @@
 {
   "stateName": "State: Jigawa State",
     "region": "Region: North-West",
-    "year": "Year: Incumbent",
+    "year": "Year:2023 - Incumbent",
     "governorName": "Governor: Umar Namadi",
     "Elected Political Party": "Party: APC", 
     "imageUrl": "https://cdn.pmnewsnigeria.com/wp-content/uploads/2022/05/Umar-Namadi-e1653633915741-362x540.jpg"
 },
 {
+  "stateName": "State: Kaduna State",
+    "region": "Region: North-West",
+    "year": "Year: 2015 - 2023",
+    "governorName": "Governor: Nasir El-Rufai",
+    "Elected Political Party": "Party: APC", 
+    "imageUrl": "https://media.premiumtimesng.com/wp-content/files/2022/03/Governor-Nasir-El-Rufai-e1648031512853-1140x570.jpg"
+},
+{
+  "stateName": "State: Kaduna State",
+    "region": "Region: North-West ",
+    "year": "Year: 2023 - Incumbent",
+    "governorName": "Governor: Uba Sani",
+    "Elected Political Party": "Party: APC", 
+    "imageUrl": "https://cdn.punchng.com/wp-content/uploads/2023/06/21105737/Uba-Sani-1536x1018.jpeg"
+},
+{
   "stateName": "State:  State",
-    "region": "Region: ",
+    "region": "Region: North-West ",
     "year": "Year: Incumbent",
     "governorName": "Governor: ",
-    "Elected Political Party": "Party: ", 
+    "Elected Political Party": "Party: APC", 
+    "imageUrl": ""
+},
+{
+  "stateName": "State:  State",
+    "region": "Region: North-West ",
+    "year": "Year: Incumbent",
+    "governorName": "Governor: ",
+    "Elected Political Party": "Party: APC", 
+    "imageUrl": ""
+},
+{
+  "stateName": "State:  State",
+    "region": "Region: North-West",
+    "year": "Year: Incumbent",
+    "governorName": "Governor: ",
+    "Elected Political Party": "Party: APC", 
+    "imageUrl": ""
+},
+{
+  "stateName": "State:  State",
+    "region": "Region: North-West",
+    "year": "Year: Incumbent",
+    "governorName": "Governor: ",
+    "Elected Political Party": "Party: APC", 
+    "imageUrl": ""
+},
+{
+  "stateName": "State:  State",
+    "region": "Region: North-West",
+    "year": "Year: Incumbent",
+    "governorName": "Governor: ",
+    "Elected Political Party": "Party: APC", 
+    "imageUrl": ""
+},
+{
+  "stateName": "State:  State",
+    "region": "Region: North-West",
+    "year": "Year: Incumbent",
+    "governorName": "Governor: ",
+    "Elected Political Party": "Party: APC", 
+    "imageUrl": ""
+},
+{
+  "stateName": "State:  State",
+    "region": "Region: North-West",
+    "year": "Year: Incumbent",
+    "governorName": "Governor: ",
+    "Elected Political Party": "Party: APC", 
     "imageUrl": ""
 }
 ]
