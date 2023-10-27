@@ -263,6 +263,7 @@ footer {
     display: flex;
     flex-direction: column;
     align-items: center;
+    text-align: left;
     justify-content: center;
 }
 
@@ -304,12 +305,5 @@ footer {
         max-width: fit-content;
     }
 
-    #task3 {
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-        grid-gap: 5px;
-        margin: 0 auto;
-        max-width: 950px;
-    }
 
 }
