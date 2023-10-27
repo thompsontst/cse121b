@@ -362,12 +362,61 @@
       "Elected Political Party": "Party: APC", 
       "imageUrl": "https://media.premiumtimesng.com/wp-content/files/2021/09/Akinwunmi-Ambode-2.jpg"
     },
+  {
+    "stateName": "State: Lagos State",
+      "region": "Region: South-West",
+      "year": "Year: 2019 - Incumbent",
+      "governorName": "Governor: Babajide Sanwo-Olu",
+      "Elected Political Party": "Party: APC", 
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Governor_Sanwoolu.jpg/800px-Governor_Sanwoolu.jpg"
+    },
+  
     {
-      "stateName": "State: Lagos State",
-        "region": "Region: South-West",
-        "year": "Year: 2019 - Incumbent",
-        "governorName": "Governor: Babajide Sanwo-Olu",
+      "stateName": "State: Nasarawa State",
+        "region": "Region: North-Central",
+        "year": "Year: 2011 - 2019",
+        "governorName": "Governor:Umaru Tanko Al-Makura ",
         "Elected Political Party": "Party: APC", 
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Governor_Sanwoolu.jpg/800px-Governor_Sanwoolu.jpg"
-      }
+        "imageUrl": "https://nasarawaeye.files.wordpress.com/2022/02/img-20220106-wa00554154947001730889886.jpg"
+      },
+      {
+        "stateName": "State: Nasarawa State",
+          "region": "Region: North-Central",
+          "year": "Year: 2019 - Incumbent",
+          "governorName": "Governor: Abdullahi Sule",
+          "Elected Political Party": "Party: APC", 
+          "imageUrl": "https://www.channelstv.com/wp-content/uploads/2023/05/Abdullahi-Sule.png"
+        },
+          {
+            "stateName": "State: Oyo State",
+              "region": "Region: South-West",
+              "year": "Year: 2011 - 2019",
+              "governorName": "Governor: Abiola Ajimobi",
+              "Elected Political Party": "Party: APC", 
+              "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Governor_Sanwoolu.jpg/800px-Governor_Sanwoolu.jpg"
+            },
+            {
+              "stateName": "State: Oyo State",
+                "region": "Region: South-West",
+                "year": "Year: 2019 - Incumbent",
+                "governorName": "Governor: Engr. Oluwaseyi Makinde",
+                "Elected Political Party": "Party: APC", 
+                "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Oluseyi_Makinde.png"
+              },
+              {
+                "stateName": "State: Rivers State",
+                  "region": "Region: South-South",
+                  "year": "Year: 2015 - 2023",
+                  "governorName": "Governor: Nyesom Wike",
+                  "Elected Political Party": "Party: PDP", 
+                  "imageUrl": "https://dailypost.ng/wp-content/uploads/2022/09/Wike.jpg"
+                },
+                {
+                  "stateName": "State: Rivers State",
+                  "region": "Region: South-South",
+                    "year": "Year: Incumbent",
+                    "governorName": "Governor: Siminalayi Fubara",
+                    "Elected Political Party": "Party: PDP", 
+                    "imageUrl": "https://cdn.vanguardngr.com/wp-content/uploads/2023/02/Fub.jpg"
+                  }
 ]
