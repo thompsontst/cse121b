@@ -338,13 +338,20 @@
     "Elected Political Party": "Party: APC", 
     "imageUrl": "https://media.premiumtimesng.com/wp-content/files/2023/04/IMG-20220225-WA0055-720x570.jpg"
 },
-
 {
   "stateName": "State: Koggi State",
-    "region": "Region: North-West",
-    "year": "Year: Incumbent",
-    "governorName": "Governor: ",
+    "region": "Region: North-Central",
+    "year": "Year: 2014 - 2019",
+    "governorName": "Governor: Abdulfatah Ahmed",
+    "Elected Political Party": "Party: PDP", 
+    "imageUrl": "https://www.politiciansdata.com/wp-content/uploads/2018/05/His-Excellency-Dr-Abdulfatah-Ahmed.jpg"
+},
+{
+  "stateName": "State: Koggi State",
+    "region": "Region: North-Central",
+    "year": "Year: 2019 - Incumbent",
+    "governorName": "Governor: Abdulrazaq Abdulrahman",
     "Elected Political Party": "Party: APC", 
-    "imageUrl": ""
-}
+    "imageUrl": "https://media.premiumtimesng.com/wp-content/files/2021/03/Governor-AbdulRahman-Abdulrazaq-1024x570.jpg"
+  },
 ]
