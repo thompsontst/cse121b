@@ -1,0 +1,350 @@
+[
+  {
+    "stateName": " State: Abia State",
+    "region": " Region: South-East",
+    "year": "Year: 2015 - 2023",
+    "governorName": "Governor: Dr. Okezie Ikpeazu",
+    "Elected Political Party": "Party: PDP", 
+    "imageUrl": "https://puoreports.ng/wp-content/uploads/2018/09/Ikpeazu-check-time.jpg"
+  },
+  {
+    "stateName": "State: Abia State",
+    "region": "Region: South-East",
+    "year": "Year: Incumbent",
+    "governorName": "Governor: Alex Otti",
+    "Elected Political Party": "Party: Labour Party", 
+    "imageUrl": "https://i0.wp.com/afnews.ng/wp-content/uploads/2023/06/Alex-Otti.jpg?fit=764%2C547&ssl=1"
+},
+
+ {
+  "stateName": "State: Adamawa State",
+    "region": "Region: North-East",
+    "year": "Year: 2015 - 2019",
+    "governorName": "Governor: Bindo Jibrilla",
+    "Elected Political Party": "Party: APC", 
+    "imageUrl": "https://dailytrust.com/wp-content/uploads/2019/03/Gov-Mohammed-Jibrilla-Bindow-1.jpg"
+},
+{
+  "stateName": "State: Adamawa State",
+    "region": "Region: North-East",
+    "year": "Year: 2019 - Incumbent",
+    "governorName": "Governor: Ahmadu Umaru Fintiri",
+    "Elected Political Party": "Party: PDP", 
+    "imageUrl": "https://www.channelstv.com/wp-content/uploads/2021/11/Ahmadu-Umaru-Fintiri.jpg"
+},
+
+{
+  "stateName": "State: Akwa Ibom State",
+    "region": "Region: South-South",
+    "year": "Year: 2015 - 2023",
+    "governorName": "Governor: Udom Gabriel Emmanuel",
+    "Elected Political Party": "Party: PDP", 
+    "imageUrl": "https://www.channelstv.com/wp-content/uploads/2019/09/Udom-Emmanuel.jpg"
+},
+{
+  "stateName": "State: Akwa Ibom State",
+    "region": "Region: South-South",
+    "year": "Year: Incumbent",
+    "governorName": "Governor: Umo Bassey Eno",
+    "Elected Political Party": "Party: PDP", 
+    "imageUrl": "https://akwaibomstate.gov.ng/wp-content/uploads/2023/07/UE-2023-Official.webp"
+},
+{
+  "stateName": "State: Anambra State",
+    "region": "Region: South-East",
+    "year": "Year: 2014 - 2022",
+    "governorName": "Governor: Willie Obiano",
+    "Elected Political Party": "Party: APGA", 
+    "imageUrl": "https://cdn.punchng.com/wp-content/uploads/2016/03/21004618/Willie-Obiano1.jpg"
+},
+{
+  "stateName": "State: Anambra State",
+    "region": "Region: South-East",
+    "year": "Year: 2022 - Incumbent",
+    "governorName": "Governor: Charles Chukwuma Soludo",
+    "Elected Political Party": "Party: APGA", 
+    "imageUrl": "https://www.icirnigeria.org/wp-content/uploads/2021/10/Charles-Soludo-696x392.jpg"
+},
+{
+  "stateName": "State: Bauchi State",
+    "region": "Region: North-East",
+    "year": "Year: 2015 - 2019",
+    "governorName": "Governor: Bar. Mohammed Abdullahi Abubakar",
+    "Elected Political Party": "Party: APC", 
+    "imageUrl": "https://frontlinenews.com.ng/wp-content/uploads/2018/11/Barrister-M-552x381.jpg"
+},
+{
+  "stateName": "State: Bauchi State",
+    "region": "Region: North-East",
+    "year": "Year: 2019 - Incumbent",
+    "governorName": "Governor: Senator Bala Mohammed",
+    "Elected Political Party": "Party: PDP", 
+    "imageUrl": "https://global.ariseplay.com/amg/www.thisdaylive.com/uploads/Senator-Bala-Mohammed.gif"
+},
+{
+  "stateName": "State: Bayelsa State",
+    "region": "Region: South-South",
+    "year": "Year: 2012 - 2020",
+    "governorName": "Governor: Henry Dickson",
+    "Elected Political Party": "Party: PDP", 
+    "imageUrl": "https://thenewsnigeria.s3.eu-west-1.amazonaws.com/2018/04/Governor-Seriake-Dickson7-1.jpg"
+},
+{
+  "stateName": "State: Bayelsa State",
+    "region": "Region: South-South",
+    "year": "Year: 2012 - Incumbent",
+    "governorName": "Governor: Duoye Diri",
+    "Elected Political Party": "Party: PDP", 
+    "imageUrl": "https://cdn.punchng.com/wp-content/uploads/2022/10/25074707/Gov-Diri.jpg"
+},
+{
+  "stateName": "State: Benue State",
+    "region": "Region: North-Central",
+    "year": "Year: 2015 - 2023",
+    "governorName": "Governor: Samuel Ortom",
+    "Elected Political Party": "Party: PDP", 
+    "imageUrl": "https://image.jimcdn.com/app/cms/image/transf/none/path/s658171ab7a6dcc43/image/ie06b5f337133f09d/version/1635324630/benue-governor-samuel-ortom-twitter.jpg"
+},
+{
+  "stateName": "State: Benue State",
+    "region": "Region: North-Central",
+    "year": "Year: Incumbent",
+    "governorName": "Governor: Rev. Fr. Hyacinth Alia",
+    "Elected Political Party": "Party: APC", 
+    "imageUrl": "https://i0.wp.com/radionigeria.gov.ng/wp-content/uploads/2023/06/Rev-Fr-Hyacinth-Alia.jpg?w=1044&ssl=1"
+},
+{
+  "stateName": "State: Borno State",
+    "region": "Region: North-East",
+    "year": "Year: 2011 - 2019",
+    "governorName": "Governor: Kashim Shettima",
+    "Elected Political Party": "Party: APC", 
+    "imageUrl": "https://statehouse.gov.ng/wp-content/uploads/2023/05/FxSvH8TWAAYzC0H.jpg"
+},
+{
+  "stateName": "State: Borno State",
+    "region": "Region: North-East",
+    "year": "Year: 2019 - Incumbent",
+    "governorName": "Governor: Babagana Umara Zulum",
+    "Elected Political Party": "Party: APC", 
+    "imageUrl": "https://gazettengr.com/wp-content/uploads/Babagana-Zulum.png"
+},
+{
+  "stateName": "State: Cross River State",
+    "region": "Region: South-South",
+    "year": "Year: 2019 - 2023",
+    "governorName": "Governor: Senator Ben Ayade",
+    "Elected Political Party": "Party: PDP/APC", 
+    "imageUrl": "https://media.premiumtimesng.com/wp-content/files/2020/04/Ben-Ayade-e1588259495734.jpg"
+},
+{
+  "stateName": "State: Cross River State",
+    "region": "Region: South-South",
+    "year": "Year: Incumbent",
+    "governorName": "Governor: Senator Bassey Edet Otu",
+    "Elected Political Party": "Party: APC", 
+    "imageUrl": "https://senatorprinceotu.com/sitepad-data/uploads/2022/05/IMG-20220510-WA0035.jpg"
+},
+{
+  "stateName": "State: Delta State",
+    "region": "Region: South-South",
+    "year": "Year: 2019 - 2023 ",
+    "governorName": "Governor: Ifeanyi Okowa",
+    "Elected Political Party": "Party: PDP", 
+    "imageUrl": "https://cdn.punchng.com/wp-content/uploads/2019/08/28142240/Governor-Ifeanyi-Okowa-of-Delta-State.jpg"
+},
+{
+  "stateName": "State: Delta State",
+    "region": "Region: South-South",
+    "year": "Year: Incumbent",
+    "governorName": "Governor: Hon. Sheriff Oborevwori",
+    "Elected Political Party": "Party: PDP", 
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/His_Excellency_Rt._Hon._Sherrif_Oborevwori_Governor_of_Delta_State.jpg/800px-His_Excellency_Rt._Hon._Sherrif_Oborevwori_Governor_of_Delta_State.jpg"
+},
+{
+  "stateName": "State: Ebonyi State",
+    "region": "Region: South-East",
+    "year": "Year: 2019 - 2023",
+    "governorName": "Governor: Engr. Dave Umahi",
+    "Elected Political Party": "Party: APC", 
+    "imageUrl": "https://media.premiumtimesng.com/wp-content/files/2018/08/Umahi.jpg"
+},
+{
+  "stateName": "State: Ebonyi State",
+    "region": "Region: South-East",
+    "year": "Year: 2023 - Incumbent",
+    "governorName": "Governor: Francis Nwifuru",
+    "Elected Political Party": "Party: APC", 
+    "imageUrl": "https://cdn.punchng.com/wp-content/uploads/2023/02/10215053/Francis-Nwifuru.png"
+},
+{
+  "stateName": "State: Edo State",
+    "region": "Region: South-South",
+    "year": "Year: 2008 - 2016",
+    "governorName": "Governor: Senator Adams A. Oshiomhole",
+    "Elected Political Party": "Party: APC", 
+    "imageUrl": "https://dailytrust.com/wp-content/uploads/2019/06/Oshiomhole-sack-opens-new-cracks-in-APC.jpg"
+},
+{
+  "stateName": "State: Edo State",
+    "region": "Region: South-South",
+    "year": "Year: 2016 - Incumbent",
+    "governorName": "Governor: Godwin Obaseki",
+    "Elected Political Party": "Party: PDP", 
+    "imageUrl": "https://www.edostate.gov.ng/storage/2019/07/obaseki-2.jpg"
+},
+{
+  "stateName": "State: Ekiti State",
+    "region": "Region: South-West",
+    "year": "Year: 2018 - 2022",
+    "governorName": "Governor: Dr. Kayode Fayem",
+    "Elected Political Party": "Party: APC", 
+    "imageUrl": "https://cdn.punchng.com/wp-content/uploads/2021/02/07035721/Dr-Kayode-Fayemi.jpg"
+},
+{
+  "stateName": "State: Ekiti State",
+    "region": "Region: South-West",
+    "year": "Year: 2022 - Incumbent",
+    "governorName": "Governor: Biodun Oyebanji",
+    "Elected Political Party": "Party: APC", 
+    "imageUrl": "https://dailypost.ng/wp-content/uploads/2022/08/Abiodun-Oyebanji.jpg"
+},
+{
+  "stateName": "State: Enugu State",
+    "region": "Region: South-East",
+    "year": "Year: 2015 - 2023",
+    "governorName": "Governor: Ifeanyi Ugwuanyi",
+    "Elected Political Party": "Party: PDP", 
+    "imageUrl": "https://cdn.punchng.com/wp-content/uploads/2020/05/29003630/Ifeanyi-Ugwuanyi.jpg"
+},
+{
+  "stateName": "State: Enugu State",
+    "region": "Region: South-East",
+    "year": "Year: Incumbent",
+    "governorName": "Governor: Peter Mbah",
+    "Elected Political Party": "Party: PDP", 
+    "imageUrl": "https://netstorage-legit.akamaized.net/images/74d2f3215e63aadd.png?imwidth=720"
+},
+
+{
+  "stateName": "State: Gombe State",
+    "region": "Region: North-East",
+    "year": "Year: 2011 - 2019",
+    "governorName": "Governor: Ibrahim Hassan Dankwambo",
+    "Elected Political Party": "Party: PDP", 
+    "imageUrl": "https://i0.wp.com/africaprimenews.com/wp-content/uploads/2018/08/Gov-Dankwambo.jpg?w=640&ssl=1"
+},
+{
+  "stateName": "State: Gombe State",
+    "region": "Region: North-East",
+    "year": "Year: 2019 - Incumbent",
+    "governorName": "Governor: Muhammad Inuwa Yahaya ",
+    "Elected Political Party": "Party: APC", 
+    "imageUrl": "https://independent.ng/wp-content/uploads/Governor-Muhammad-Inuwa-Yahaya-of-Gombe-State-3.jpg"
+},
+{
+  "stateName": "State: Imo State",
+    "region": "Region: South-East",
+    "year": "Year: 20I9 - 2020",
+    "governorName": "Governor: Emeka Ihedioha",
+    "Elected Political Party": "Party: PDP", 
+    "imageUrl": "https://live.mrf.io/statics/i/ps/storage.googleapis.com/thisday-846548948316-wp-data/wp-media/2019/03/c285ef2a-emeka-ihedioha-1.jpg?width=1200&enable=upscale"
+},
+{
+  "stateName": "State: Imo State",
+    "region": "Region: South-East",
+    "year": "Year: 2020 - Incumbent",
+    "governorName": "Governor: Hope Uzodimma",
+    "Elected Political Party": "Party: APC", 
+    "imageUrl": "https://guardian.ng/wp-content/uploads/2022/10/Uzodimma-1424x802.jpg"
+},
+{
+  "stateName": "State: Jigawa State",
+    "region": "Region: North-West",
+    "year": "Year: 2015 - 2023",
+    "governorName": "Governor: Mohammed Badaru Abubakar",
+    "Elected Political Party": "Party: APC", 
+    "imageUrl": "https://media.premiumtimesng.com/wp-content/files/2021/06/Badaru-1140x570.png"
+},
+{
+  "stateName": "State: Jigawa State",
+    "region": "Region: North-West",
+    "year": "Year:2023 - Incumbent",
+    "governorName": "Governor: Umar Namadi",
+    "Elected Political Party": "Party: APC", 
+    "imageUrl": "https://cdn.pmnewsnigeria.com/wp-content/uploads/2022/05/Umar-Namadi-e1653633915741-362x540.jpg"
+},
+{
+  "stateName": "State: Kaduna State",
+    "region": "Region: North-West",
+    "year": "Year: 2015 - 2023",
+    "governorName": "Governor: Nasir El-Rufai",
+    "Elected Political Party": "Party: APC", 
+    "imageUrl": "https://media.premiumtimesng.com/wp-content/files/2022/03/Governor-Nasir-El-Rufai-e1648031512853-1140x570.jpg"
+},
+{
+  "stateName": "State: Kaduna State",
+    "region": "Region: North-West ",
+    "year": "Year: 2023 - Incumbent",
+    "governorName": "Governor: Uba Sani",
+    "Elected Political Party": "Party: APC", 
+    "imageUrl": "https://cdn.punchng.com/wp-content/uploads/2023/06/21105737/Uba-Sani-1536x1018.jpeg"
+},
+{
+  "stateName": "State: Kano State",
+    "region": "Region: North-West ",
+    "year": "Year: 2015 - 2023",
+    "governorName": "Governor: Abdullahi Umar Ganduje",
+    "Elected Political Party": "Party: APC", 
+    "imageUrl": "https://guardian.ng/wp-content/uploads/2022/07/ganduje-712x401.jpg"
+},
+{
+  "stateName": "State: KanO State",
+    "region": "Region: North-West ",
+    "year": "Year: Incumbent",
+    "governorName": "Governor: Abba Kabir Yusuf",
+    "Elected Political Party": "Party: NNPP", 
+    "imageUrl": "https://solacebase.com/wp-content/uploads/2023/03/Abba-Kabir-Yusuf-new-720x430.jpg"
+},
+{
+  "stateName": "State: Katsina State",
+    "region": "Region: North-West",
+    "year": "Year: 2015 - 2023",
+    "governorName": "Governor: Aminu Bello Masari",
+    "Elected Political Party": "Party: APC", 
+    "imageUrl": "https://kipa.kt.gov.ng/wp-content/uploads/2022/06/d0432-masarii-1.jpeg"
+},
+{
+  "stateName": "State:  Katsina  State",
+    "region": "Region:North-West",
+    "year": "Year: Incumbent",
+    "governorName": "Governor: Dikko Umar Radda",
+    "Elected Political Party": "Party: APC", 
+    "imageUrl": "https://media.premiumtimesng.com/wp-content/files/2023/04/Dr-Dikko-Umar-Radda.jpg"
+},
+{
+  "stateName": "State: Kebbi State",
+    "region": "Region: North-West",
+    "year": "Year: 2015 - 2023",
+    "governorName": "Governor: Abubakar Atiku Bagudu ",
+    "Elected Political Party": "Party: APC", 
+    "imageUrl": "https://i0.wp.com/newtelegraphng.com/wp-content/uploads/2021/04/Senator-Atiku-Bagudu2.png?w=676&ssl=1"
+},
+{
+  "stateName": "State: Kebbi State",
+    "region": "Region: North-West",
+    "year": "Year: Incumbent",
+    "governorName": "Governor: Nasir Idris",
+    "Elected Political Party": "Party: APC", 
+    "imageUrl": "https://media.premiumtimesng.com/wp-content/files/2023/04/IMG-20220225-WA0055-720x570.jpg"
+},
+
+{
+  "stateName": "State: Koggi State",
+    "region": "Region: North-West",
+    "year": "Year: Incumbent",
+    "governorName": "Governor: ",
+    "Elected Political Party": "Party: APC", 
+    "imageUrl": ""
+}
+]
